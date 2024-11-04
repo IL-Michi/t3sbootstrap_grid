@@ -1,9 +1,10 @@
 <T3DataStructure>
-	<sheets>
-		<sDEF>
-			<ROOT>
-
-			</ROOT>
-		</sDEF>
-	</sheets>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <type>array</type>
+                <el> </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
 </T3DataStructure>
